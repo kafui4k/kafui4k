@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Am Kafui, a Software Developer with keen interest in building interactive things. Currently implementing EMRs/HMS accross Medical Facilities 🏥 in 🇬🇭
+- Am Kafui,
+- a Software Developer and a Consultant working with CLODS.org
+- I love Coffee ☕
+- I enjoy Karaoke 🎤
+<!-- Currently implementing EMRs/HMS accross Medical Facilities 🏥 in 🇬🇭 -->
+- Outside of Coding 💻 , I travel 🚙🏊 around, taste wine 🍷 and collect arts 🎨 🖼️.

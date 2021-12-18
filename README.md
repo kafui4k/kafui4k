@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Am Kafui,
-<!-- - a Software Developer and a Consultant working with CLODS.org
-- I love Coffee ☕
-- I enjoy Karaoke 🎤
-Currently implementing EMRs/HMS accross Medical Facilities 🏥 in 🇬🇭 
-- Outside of Coding 💻 , I travel 🚙🏊 around, taste wine 🍷 and collect arts 🎨 🖼️.-->
+# Am Kafui, 😄 Pronouns: He/Him
+💻 a Software Developer from Ghana🇬🇭 building for the Web & Mobile
+🌱 I learn new things and the eco-system on the daily
+☕ I love Coffee

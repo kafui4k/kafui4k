@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Am Kafui, 😄 Pronouns: He/Him
-- 💻 a Software Developer from Ghana🇬🇭 building for the Web & Mobile
-- 🌱 I learn new things and the eco-system on the daily
-- ☕ I love Coffee
+# Am Kafui, 
+- 😄 Pronouns: He/Him
+- Software Developer 💻 from Ghana🇬🇭, building for the Web & Mobile
+- 🌱 Open to learning new things
+- ☕ Wanna be Coffee Aficionado
+- 🔭 I’m currently taking the "TOP"

@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 - Software Developer 💻 from Ghana🇬🇭, building for the Web & Mobile
 - 🌱 Open to learning new things
 - ☕ Wanna be Coffee Aficionado
-- 🔭 I’m currently taking the "TOP"
+
+# Interest:
+Technology Consulting | Software/Product Architecting | Coaching at Workshops and Speacking at Conferences | DevOps | Cloud Computing

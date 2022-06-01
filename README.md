@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 # Am Kafui, 
 - 😄 Pronouns: He/Him
-- Software Developer 💻 from Ghana🇬🇭, building for the Web & Mobile
+- 💻 A Software Developer from Ghana🇬🇭, building applications for the Web & Mobile, and write stupid stuffs sometimes too...
 - 🌱 Open to learning new things
 - ☕ Wanna be Coffee Aficionado
+- 🚀🌍🗺️ An Avid Traveller
 
 # Interest:
 Technology Consulting | Software/Product Architecting | Coaching at Workshops and Speacking at Conferences | DevOps | Cloud Computing

@@ -1,26 +1,22 @@
-### Hi there 👋
+<p align="center">
+  A Developer with a Life
+</p
 
-<!--
-**kafui4k/kafui4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋 Am Kafui,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Kumasi-based Software Developer from Ghana 🇬🇭, building applications for the Web and Mobile, and write stupid stuffs sometimes too...😄
 
-# Am Kafui, 
-- 😄 Pronouns: He/Him
-- 💻 A Software Developer from Ghana🇬🇭, building applications for the Web & Mobile, and write stupid stuffs sometimes too...
-- 🌱 Open to learning new things
-- ☕ Wanna be Coffee Aficionado
-- 🚀🌍🗺️ An Avid Traveller
+### 🛠 I currently work with this stacks...
 
-# Interest:
-Technology Consulting | Software/Product Architecting | Coaching at Workshops and Speacking at Conferences | DevOps | Cloud Computing
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
+![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
+![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+
+<!-- ### 📫 How to reach me: -->
